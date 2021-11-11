@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+#timer {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 70px;
+    position: relative;
+    
+}
+#timerText {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 70px;
+    position: relative;
+}
+.player_1 {
+    margin: 0px auto;
+    position: absolute;
+    left: 85%;
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+}
+.player_2 {
+    position: absolute;
+    margin: 0 auto;
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+
+}
